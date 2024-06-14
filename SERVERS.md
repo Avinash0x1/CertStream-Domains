@@ -6,8 +6,8 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996) (kvm)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 10 days, 18 hours and 48 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.47 0.68 0.61
+   .mX2'       _xaaa__     XZ[.   Uptime: 10 days, 20 hours and 12 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.91 0.84 0.59
   _#e'     .]X2(     ~Xw|  )XXc   Processes: 89
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
@@ -18,8 +18,8 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Cirrus Logic GD 5446
-            ~~~~~                 RAM: 508 MiB / 3411 MiB
-                                  Disk: 10.8 GiB / 75.2 GiB
+            ~~~~~                 RAM: 490 MiB / 3411 MiB
+                                  Disk: 10.9 GiB / 75.2 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -27,14 +27,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 75.2G │ 10.8G │ 60.6G │  14.4% │ ext4 │ /dev/vda1  │
+│ /          │ 75.2G │ 10.8G │ 60.5G │  14.4% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.32T    429M      0    524k       0       0 
+         1.32T    432M      0    526k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         26.7G    224M      0       0       0       0 
+         26.8G    225M      0       0       0       0 
     altname enp0s3
     altname ens3
 
@@ -45,8 +45,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 10 days, 17 hours and 46 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.7 1.01 0.88
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 10 days, 18 hours and 57 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.33 1.2 0.89
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 101
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -56,7 +56,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 269 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 286 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 8.3 GiB / 14.0 GiB
 [+] Storage:
 
@@ -65,13 +65,13 @@
 ├────────────┬───────┬──────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼──────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 8.3G │  4.9G │  60.1% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 8.3G │  4.9G │  60.2% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴──────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.35T    673M      0       0       0       0 
+         1.36T    677M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         21.7G    173M      0       0       0       0 
+         21.8G    174M      0       0       0       0 
 
 ```
