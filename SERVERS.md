@@ -45,8 +45,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 11 days, 19 hours and 31 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.2 1.29 1.04
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 11 days, 20 hours and 42 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.45 1.2 0.9
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 101
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -56,7 +56,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 262 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 265 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 8.7 GiB / 14.0 GiB
 [+] Storage:
 
@@ -65,13 +65,13 @@
 ├────────────┬───────┬──────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼──────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 8.7G │  4.5G │  62.9% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 8.7G │  4.5G │  63.0% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴──────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.49T    748M      0       0       0       0 
+         1.50T    751M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         23.9G    190M      0       0       0       0 
+         24.0G    191M      0       0       0       0 
 
 ```
