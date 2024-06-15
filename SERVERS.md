@@ -6,8 +6,8 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996) (kvm)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 11 days, 23 hours and 51 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.47 1.11 0.77
+   .mX2'       _xaaa__     XZ[.   Uptime: 12 days, 1 hour and 14 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.04 0.72 0.63
   _#e'     .]X2(     ~Xw|  )XXc   Processes: 90
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
@@ -32,9 +32,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.46T    478M      0    582k       0       0 
+         1.47T    480M      0    585k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         29.7G    250M      0       0       0       0 
+         29.9G    251M      0       0       0       0 
     altname enp0s3
     altname ens3
 
@@ -45,8 +45,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 11 days, 23 hours and 2 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.9 1.08 0.9
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 12 days and 12 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.44 1.05 0.89
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 101
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -56,7 +56,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 285 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 264 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 8.8 GiB / 14.0 GiB
 [+] Storage:
 
@@ -65,13 +65,13 @@
 ├────────────┬───────┬──────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼──────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 8.7G │  4.5G │  63.3% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 8.7G │  4.4G │  63.5% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴──────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.51T    757M      0       0       0       0 
+         1.51T    760M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         24.2G    193M      0       0       0       0 
+         24.3G    193M      0       0       0       0 
 
 ```
