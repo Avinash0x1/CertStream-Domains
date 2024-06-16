@@ -45,9 +45,9 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 12 days, 10 hours and 41 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.19 1.21 0.91
- hdddddddddd+`      `+y:    .sddddddddddh   Processes: 101
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 12 days, 11 hours and 52 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.89 1.09 0.91
+ hdddddddddd+`      `+y:    .sddddddddddh   Processes: 104
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
  ddddh+`   `/+/dddddh/`   `+s-    -sddddd   Shell: /bin/bash
@@ -56,7 +56,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 258 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 290 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 8.8 GiB / 14.0 GiB
 [+] Storage:
 
@@ -65,13 +65,13 @@
 ├────────────┬───────┬──────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼──────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 8.7G │  4.5G │  63.2% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 8.7G │  4.5G │  63.4% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴──────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.57T    789M      0       0       0       0 
+         1.57T    792M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         25.1G    200M      0       0       0       0 
+         25.2G    201M      0       0       0       0 
 
 ```
