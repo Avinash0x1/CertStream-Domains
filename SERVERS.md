@@ -6,9 +6,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996) (kvm)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 13 days, 22 hours and 52 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.15 0.76 0.64
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 89
+   .mX2'       _xaaa__     XZ[.   Uptime: 14 days and 15 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.94 0.95 0.68
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 90
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -18,7 +18,7 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Cirrus Logic GD 5446
-            ~~~~~                 RAM: 477 MiB / 3411 MiB
+            ~~~~~                 RAM: 474 MiB / 3411 MiB
                                   Disk: 12.1 GiB / 75.2 GiB
 [+] Storage:
 
@@ -27,14 +27,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 75.2G │ 12.0G │ 59.3G │  16.0% │ ext4 │ /dev/vda1  │
+│ /          │ 75.2G │ 12.1G │ 59.3G │  16.0% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.69T    555M      0    677k       0       0 
+         1.70T    557M      0    680k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         34.7G    291M      0       0       0       0 
+         34.8G    292M      0       0       0       0 
     altname enp0s3
     altname ens3
 
@@ -45,8 +45,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 13 days, 21 hours and 43 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.47 1.23 0.94
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 13 days, 22 hours and 53 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.53 1.42 1.11
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 101
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -56,8 +56,8 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 292 MiB / 2449 MiB
-      /dddddddddddddddddddddddddddd/        Disk: 9.3 GiB / 14.0 GiB
+     +dddddddddddddddddddddddddddddd+       RAM: 268 MiB / 2449 MiB
+      /dddddddddddddddddddddddddddd/        Disk: 9.4 GiB / 14.0 GiB
 [+] Storage:
 
 ╭────────────────────────────────────────────────────────────────╮
@@ -65,13 +65,13 @@
 ├────────────┬───────┬──────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼──────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 9.2G │  3.9G │  67.0% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 9.4G │  3.8G │  68.2% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴──────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.74T    887M      0       0       0       0 
+         1.75T    890M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         28.1G    224M      0       0       0       0 
+         28.2G    225M      0       0       0       0 
 
 ```
