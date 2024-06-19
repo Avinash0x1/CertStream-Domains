@@ -16,7 +16,7 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +66666612
+[+] New/ReNewed SSL Certs (ALL): +59117250
 
 ```
 
