@@ -5,8 +5,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 16 days, 1 hour and 33 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.62 0.96 0.8
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 16 days, 2 hours and 43 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.14 1.03 0.77
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 100
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -16,7 +16,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 261 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 269 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 10.0 GiB / 14.0 GiB
 [+] Storage:
 
@@ -25,12 +25,12 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 10.0G │  3.2G │  72.4% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 10.0G │  3.2G │  72.6% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
          2.04T   1.04G      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         32.6G    260M      0       0       0       0 
+         32.7G    260M      0       0       0       0 
 
