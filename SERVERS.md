@@ -6,8 +6,8 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996) (kvm)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 16 days, 15 hours and 58 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.73 1.02 0.76
+   .mX2'       _xaaa__     XZ[.   Uptime: 16 days, 17 hours and 21 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.95 0.88 0.62
   _#e'     .]X2(     ~Xw|  )XXc   Processes: 89
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
@@ -18,8 +18,8 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Cirrus Logic GD 5446
-            ~~~~~                 RAM: 489 MiB / 3411 MiB
-                                  Disk: 13.1 GiB / 75.2 GiB
+            ~~~~~                 RAM: 479 MiB / 3411 MiB
+                                  Disk: 13.2 GiB / 75.2 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -27,14 +27,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 75.2G │ 13.1G │ 58.3G │  17.4% │ ext4 │ /dev/vda1  │
+│ /          │ 75.2G │ 13.1G │ 58.3G │  17.5% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.04T    669M      0    809k       0       0 
+         2.04T    671M      0    812k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         41.7G    350M      0       0       0       0 
+         41.8G    351M      0       0       0       0 
     altname enp0s3
     altname ens3
 
@@ -45,8 +45,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 16 days, 14 hours and 32 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.85 1.23 0.98
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 16 days, 15 hours and 42 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.78 1.14 0.93
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 100
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -56,7 +56,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 250 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 235 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 11.2 GiB / 14.0 GiB
 [+] Storage:
 
@@ -65,13 +65,13 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 11.2G │  2.0G │  81.1% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 11.2G │  2.0G │  81.3% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.10T   1.08G      0       0       0       0 
+         2.11T   1.08G      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         33.6G    268M      0       0       0       0 
+         33.7G    269M      0       0       0       0 
 
 ```
