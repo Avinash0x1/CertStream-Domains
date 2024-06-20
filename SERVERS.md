@@ -45,8 +45,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 16 days, 15 hours and 42 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.78 1.14 0.93
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 16 days, 16 hours and 53 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.81 1.18 0.91
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 100
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -56,8 +56,8 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 235 MiB / 2449 MiB
-      /dddddddddddddddddddddddddddd/        Disk: 11.2 GiB / 14.0 GiB
+     +dddddddddddddddddddddddddddddd+       RAM: 248 MiB / 2449 MiB
+      /dddddddddddddddddddddddddddd/        Disk: 11.3 GiB / 14.0 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -65,13 +65,13 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 11.2G │  2.0G │  81.3% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 11.2G │  2.0G │  81.4% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.11T   1.08G      0       0       0       0 
+         2.12T   1.08G      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         33.7G    269M      0       0       0       0 
+         33.8G    270M      0       0       0       0 
 
 ```
