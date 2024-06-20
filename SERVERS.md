@@ -45,8 +45,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 16 days, 22 hours and 48 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.57 1.52 1.05
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 16 days, 23 hours and 59 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.59 1.37 0.99
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 100
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -56,7 +56,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 255 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 267 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 11.4 GiB / 14.0 GiB
 [+] Storage:
 
@@ -65,13 +65,13 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 11.3G │  1.9G │  82.2% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 11.4G │  1.8G │  82.4% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.15T   1.10G      0       0       0       0 
+         2.16T   1.10G      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         34.4G    274M      0       0       0       0 
+         34.5G    275M      0       0       0       0 
 
 ```
