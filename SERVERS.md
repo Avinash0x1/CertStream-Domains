@@ -6,9 +6,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996) (kvm)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 17 days, 4 hours and 26 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.21 0.79 0.61
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 90
+   .mX2'       _xaaa__     XZ[.   Uptime: 17 days, 5 hours and 49 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.73 0.94 0.71
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 92
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -18,8 +18,8 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Cirrus Logic GD 5446
-            ~~~~~                 RAM: 486 MiB / 3411 MiB
-                                  Disk: 13.3 GiB / 75.2 GiB
+            ~~~~~                 RAM: 462 MiB / 3411 MiB
+                                  Disk: 13.4 GiB / 75.2 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -32,9 +32,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.10T    690M      0    835k       0       0 
+         2.11T    693M      0    837k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         42.9G    359M      0       0       0       0 
+         43.0G    360M      0       0       0       0 
     altname enp0s3
     altname ens3
 
@@ -45,8 +45,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 17 days, 3 hours and 32 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.83 1.19 1.01
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 17 days, 4 hours and 43 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 2.27 1.22 0.95
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 100
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -56,7 +56,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 249 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 254 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 11.3 GiB / 14.0 GiB
 [+] Storage:
 
@@ -65,13 +65,13 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 11.2G │  2.0G │  81.4% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 11.2G │  2.0G │  81.5% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.18T   1.11G      0       0       0       0 
+         2.19T   1.12G      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         34.8G    277M      0       0       0       0 
+         34.9G    278M      0       0       0       0 
 
 ```
