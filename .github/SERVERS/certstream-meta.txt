@@ -5,8 +5,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 17 days, 17 hours and 13 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.65 1.08 0.85
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 17 days, 18 hours and 23 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.62 0.9 0.73
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 99
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -16,7 +16,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 255 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 253 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 5.1 GiB / 14.0 GiB
 [+] Storage:
 
@@ -30,7 +30,7 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.27T   1.15G      0       0       0       0 
+         2.28T   1.16G      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         35.9G    287M      0       0       0       0 
+         36.1G    288M      0       0       0       0 
 
