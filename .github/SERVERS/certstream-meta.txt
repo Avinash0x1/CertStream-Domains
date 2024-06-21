@@ -5,8 +5,8 @@
       /dddddddddddddddddddddddddddd/        Model: QEMU Standard PC (Q35 + ICH9, 2009) pc-q35-7.2
      +dddddddddddddddddddddddddddddd+       Distro: Alpine Linux v3.19 x86_64
    `sdddddddddddddddddddddddddddddddds`     Kernel: Linux 6.6.31-0-virt
-  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 18 days and 16 minutes
- .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.52 0.98 0.79
+  `ydddddddddddd++hdddddddddddddddddddy`    Uptime: 18 days, 1 hour and 26 minutes
+ .hddddddddddd+`  `+ddddh:-sdddddddddddh.   Load Average: 1.95 1.06 0.8
  hdddddddddd+`      `+y:    .sddddddddddh   Processes: 99
  ddddddddh+`   `//`   `.`     -sddddddddd   Window Manager: Not detected
  ddddddh+`   `/hddh/`   `:s-    -sddddddd   Desktop Environment: Not detected
@@ -16,7 +16,7 @@
  .hddddddddddddddddddddddddddddddddddddh.   Temperature: Not detected
   `yddddddddddddddddddddddddddddddddddy`    CPU: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
    `sdddddddddddddddddddddddddddddddds`     GPU: Vendor 1234 Device 1111
-     +dddddddddddddddddddddddddddddd+       RAM: 255 MiB / 2449 MiB
+     +dddddddddddddddddddddddddddddd+       RAM: 253 MiB / 2449 MiB
       /dddddddddddddddddddddddddddd/        Disk: 5.2 GiB / 14.0 GiB
 [+] Storage:
 
@@ -25,12 +25,12 @@
 ├────────────┬───────┬──────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼──────┼───────┼────────┼──────┼────────────┤
-│ /          │ 13.8G │ 5.2G │  8.0G │  37.5% │ ext4 │ /dev/vda2  │
+│ /          │ 13.8G │ 5.2G │  8.0G │  37.6% │ ext4 │ /dev/vda2  │
 ╰────────────┴───────┴──────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.31T   1.17G      0       0       0       0 
+         2.32T   1.18G      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         36.6G    292M      0       0       0       0 
+         36.7G    293M      0       0       0       0 
 
