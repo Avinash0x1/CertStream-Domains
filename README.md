@@ -1,22 +1,22 @@
 
 
 ---
-- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_06_21
+- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_06_22
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +13899077
+[+] New/ReNewed SSL Certs (ALL): +1340600
 
 ```
 
 ---
-- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_06_21 <--> 2024_06_14
+- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_06_22 <--> 2024_06_15
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +64297984
+[+] New/ReNewed SSL Certs (ALL): +70036252
 
 ```
 
