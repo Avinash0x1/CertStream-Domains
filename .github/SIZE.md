@@ -1,11 +1,12 @@
 ```mathematica
-1.6G └─┬ main
-1.6G   ├─┬ Raw
+1.5G └─┬ main
+1.5G   ├─┬ Raw
 1.5G   │ ├─┬ Archive
 8.5M   │ │ ├── certstream_2024_06_19_09_04_41_AM_Nepal_TIME.7z
 8.2M   │ │ ├── certstream_2024_06_20_07_14_02_AM_Nepal_TIME.7z
 8.2M   │ │ ├── certstream_2024_06_18_04_26_59_PM_Nepal_TIME.7z
 8.1M   │ │ ├── certstream_2024_06_18_10_54_27_AM_Nepal_TIME.7z
+8.1M   │ │ ├── certstream_2024_06_21_10_55_28_AM_Nepal_TIME.7z
 8.1M   │ │ ├── certstream_2024_06_18_08_36_31_PM_Nepal_TIME.7z
 8.1M   │ │ ├── certstream_2024_06_19_10_27_52_AM_Nepal_TIME.7z
 8.0M   │ │ ├── certstream_2024_06_20_07_41_48_PM_Nepal_TIME.7z
@@ -22,7 +23,6 @@
 7.7M   │ │ ├── certstream_2024_06_19_11_51_02_AM_Nepal_TIME.7z
 7.7M   │ │ ├── certstream_2024_06_18_01_40_37_PM_Nepal_TIME.7z
 7.6M   │ │ ├── certstream_2024_06_20_01_41_58_AM_Nepal_TIME.7z
-7.6M   │ │ ├── certstream_2024_06_14_07_18_21_AM_Nepal_TIME.7z
 7.6M   │ │ ├── certstream_2024_06_19_04_54_53_AM_Nepal_TIME.7z
 7.6M   │ │ ├── certstream_2024_06_20_09_04_53_PM_Nepal_TIME.7z
 7.6M   │ │ ├── certstream_2024_06_18_12_17_32_PM_Nepal_TIME.7z
@@ -35,34 +35,33 @@
 7.5M   │ │ ├── certstream_2024_06_18_11_22_47_PM_Nepal_TIME.7z
 7.5M   │ │ ├── certstream_2024_06_19_10_55_58_PM_Nepal_TIME.7z
 7.5M   │ │ ├── certstream_2024_06_19_02_37_12_PM_Nepal_TIME.7z
-7.5M   │ │ ├── certstream_2024_06_14_07_45_53_PM_Nepal_TIME.7z
+7.5M   │ │ ├── certstream_2024_06_22_04_54_57_AM_Nepal_TIME.7z
 7.5M   │ │ ├── certstream_2024_06_18_09_31_17_AM_Nepal_TIME.7z
 7.5M   │ │ ├── certstream_2024_06_15_06_49_57_AM_Nepal_TIME.7z
-7.5M   │ │ ├── certstream_2024_06_14_10_04_35_AM_Nepal_TIME.7z
-7.4M   │ │ ├── certstream_2024_06_14_03_36_47_PM_Nepal_TIME.7z
 7.4M   │ │ ├── certstream_2024_06_19_04_00_20_PM_Nepal_TIME.7z
 7.4M   │ │ ├── certstream_2024_06_15_08_13_05_AM_Nepal_TIME.7z
-7.4M   │ │ ├── certstream_2024_06_14_02_13_41_PM_Nepal_TIME.7z
 7.4M   │ │ ├── certstream_2024_06_20_10_00_12_AM_Nepal_TIME.7z
 7.4M   │ │ ├── certstream_2024_06_19_05_23_29_PM_Nepal_TIME.7z
 7.4M   │ │ ├── certstream_2024_06_20_11_23_17_AM_Nepal_TIME.7z
 7.4M   │ │ ├── certstream_2024_06_17_09_03_41_PM_Nepal_TIME.7z
 7.4M   │ │ ├── certstream_2024_06_19_06_17_58_AM_Nepal_TIME.7z
-7.3M   │ │ ├── certstream_2024_06_14_12_23_17_AM_Nepal_TIME.7z
-7.3M   │ │ ├── certstream_2024_06_14_08_41_29_AM_Nepal_TIME.7z
+7.3M   │ │ ├── certstream_2024_06_22_02_08_46_AM_Nepal_TIME.7z
 7.3M   │ │ ├── certstream_2024_06_21_02_37_04_AM_Nepal_TIME.7z
 7.3M   │ │ ├── certstream_2024_06_15_04_03_53_AM_Nepal_TIME.7z
-7.3M   │ │ ├── certstream_2024_06_14_09_08_57_PM_Nepal_TIME.7z
 7.3M   │ │ ├── certstream_2024_06_20_10_27_58_PM_Nepal_TIME.7z
+7.3M   │ │ ├── certstream_2024_06_22_12_45_42_AM_Nepal_TIME.7z
 7.3M   │ │ ├── certstream_2024_06_16_07_43_25_AM_Nepal_TIME.7z
+7.2M   │ │ ├── certstream_2024_06_22_03_31_52_AM_Nepal_TIME.7z
+7.2M   │ │ ├── certstream_2024_06_21_11_22_39_PM_Nepal_TIME.7z
+7.2M   │ │ ├── certstream_2024_06_21_06_46_11_AM_Nepal_TIME.7z
 7.2M   │ │ ├── certstream_2024_06_17_04_54_39_PM_Nepal_TIME.7z
-7.2M   │ │ ├── certstream_2024_06_14_06_22_52_PM_Nepal_TIME.7z
-7.2M   │ │ ├── certstream_2024_06_14_01_46_17_AM_Nepal_TIME.7z
+7.2M   │ │ ├── certstream_2024_06_21_08_36_31_PM_Nepal_TIME.7z
+7.2M   │ │ ├── certstream_2024_06_21_08_09_13_AM_Nepal_TIME.7z
 7.2M   │ │ ├── certstream_2024_06_15_09_36_09_AM_Nepal_TIME.7z
 7.2M   │ │ ├── certstream_2024_06_17_02_08_35_PM_Nepal_TIME.7z
 7.2M   │ │ ├── certstream_2024_06_21_01_14_01_AM_Nepal_TIME.7z
-7.2M   │ │ ├── certstream_2024_06_14_04_59_47_PM_Nepal_TIME.7z
-7.2M   │ │ ├── certstream_2024_06_14_11_27_34_AM_Nepal_TIME.7z
+7.2M   │ │ ├── certstream_2024_06_21_09_32_21_AM_Nepal_TIME.7z
+7.2M   │ │ ├── certstream_2024_06_21_03_04_27_PM_Nepal_TIME.7z
 7.2M   │ │ ├── certstream_2024_06_18_05_21_57_AM_Nepal_TIME.7z
 7.1M   │ │ ├── certstream_2024_06_20_12_18_57_AM_Nepal_TIME.7z
 7.1M   │ │ ├── certstream_2024_06_19_12_45_45_AM_Nepal_TIME.7z
@@ -70,23 +69,20 @@
 7.1M   │ │ ├── certstream_2024_06_17_12_45_31_PM_Nepal_TIME.7z
 7.1M   │ │ ├── certstream_2024_06_15_12_22_13_PM_Nepal_TIME.7z
 7.1M   │ │ ├── certstream_2024_06_15_10_59_09_AM_Nepal_TIME.7z
-7.1M   │ │ ├── certstream_2024_06_14_10_32_00_PM_Nepal_TIME.7z
+7.1M   │ │ ├── certstream_2024_06_21_07_13_30_PM_Nepal_TIME.7z
 7.1M   │ │ ├── certstream_2024_06_20_05_50_51_AM_Nepal_TIME.7z
 7.1M   │ │ ├── certstream_2024_06_17_07_40_37_PM_Nepal_TIME.7z
-7.1M   │ │ ├── certstream_2024_06_14_03_09_14_AM_Nepal_TIME.7z
+7.1M   │ │ ├── certstream_2024_06_21_09_59_32_PM_Nepal_TIME.7z
 7.1M   │ │ ├── certstream_2024_06_20_03_04_55_AM_Nepal_TIME.7z
-7.1M   │ │ ├── certstream_2024_06_14_12_50_37_PM_Nepal_TIME.7z
-7.1M   │ │ ├── certstream_2024_06_14_04_32_15_AM_Nepal_TIME.7z
 7.0M   │ │ ├── certstream_2024_06_21_04_00_05_AM_Nepal_TIME.7z
-7.0M   │ │ ├── certstream_2024_06_14_05_55_12_AM_Nepal_TIME.7z
 7.0M   │ │ ├── certstream_2024_06_15_01_45_11_PM_Nepal_TIME.7z
 7.0M   │ │ ├── certstream_2024_06_17_10_26_40_PM_Nepal_TIME.7z
 7.0M   │ │ ├── certstream_2024_06_20_04_55_31_PM_Nepal_TIME.7z
-7.0M   │ │ ├── certstream_2024_06_14_11_54_57_PM_Nepal_TIME.7z
 7.0M   │ │ ├── certstream_2024_06_15_03_08_12_PM_Nepal_TIME.7z
 7.0M   │ │ ├── certstream_2024_06_21_05_23_07_AM_Nepal_TIME.7z
 6.9M   │ │ ├── certstream_2024_06_20_02_09_24_PM_Nepal_TIME.7z
 6.9M   │ │ ├── certstream_2024_06_19_02_08_42_AM_Nepal_TIME.7z
+6.9M   │ │ ├── certstream_2024_06_21_04_27_27_PM_Nepal_TIME.7z
 6.9M   │ │ ├── certstream_2024_06_20_04_27_53_AM_Nepal_TIME.7z
 6.9M   │ │ ├── certstream_2024_06_18_01_12_45_AM_Nepal_TIME.7z
 6.9M   │ │ ├── certstream_2024_06_16_09_06_25_AM_Nepal_TIME.7z
@@ -101,9 +97,12 @@
 6.8M   │ │ ├── certstream_2024_06_16_02_38_21_PM_Nepal_TIME.7z
 6.8M   │ │ ├── certstream_2024_06_16_11_52_24_AM_Nepal_TIME.7z
 6.8M   │ │ ├── certstream_2024_06_17_06_17_38_PM_Nepal_TIME.7z
+6.8M   │ │ ├── certstream_2024_06_21_12_18_28_PM_Nepal_TIME.7z
+6.8M   │ │ ├── certstream_2024_06_21_05_50_27_PM_Nepal_TIME.7z
 6.8M   │ │ ├── certstream_2024_06_15_04_31_11_PM_Nepal_TIME.7z
 6.8M   │ │ ├── certstream_2024_06_16_05_24_15_PM_Nepal_TIME.7z
 6.8M   │ │ ├── certstream_2024_06_16_06_20_23_AM_Nepal_TIME.7z
+6.8M   │ │ ├── certstream_2024_06_21_01_41_26_PM_Nepal_TIME.7z
 6.8M   │ │ ├── certstream_2024_06_16_01_15_19_PM_Nepal_TIME.7z
 6.8M   │ │ ├── certstream_2024_06_16_03_34_33_AM_Nepal_TIME.7z
 6.7M   │ │ ├── certstream_2024_06_15_05_54_05_PM_Nepal_TIME.7z
@@ -128,6 +127,7 @@
 6.4M   │ │ ├── certstream_2024_06_16_12_48_41_AM_Nepal_TIME.7z
 6.4M   │ │ ├── certstream_2024_06_16_02_11_37_AM_Nepal_TIME.7z
 6.2M   │ │ ├── certstream_2024_06_17_01_41_40_AM_Nepal_TIME.7z
+5.9M   │ │ ├── certstream_2024_06_21_11_34_43_AM_Nepal_TIME.7z
 5.6M   │ │ ├── certstream_2024_06_19_09_15_55_AM_Nepal_TIME.7z
 5.5M   │ │ ├── certstream_2024_06_19_06_54_06_AM_Nepal_TIME.7z
 5.5M   │ │ ├── certstream_2024_06_18_04_45_11_PM_Nepal_TIME.7z
@@ -138,45 +138,52 @@
 5.3M   │ │ ├── certstream_2024_06_18_10_49_41_AM_Nepal_TIME.7z
 5.2M   │ │ ├── certstream_2024_06_20_07_39_22_AM_Nepal_TIME.7z
 5.2M   │ │ ├── certstream_2024_06_18_08_17_35_PM_Nepal_TIME.7z
+5.1M   │ │ ├── certstream_2024_06_21_08_57_18_PM_Nepal_TIME.7z
 5.1M   │ │ ├── certstream_2024_06_21_02_34_43_AM_Nepal_TIME.7z
 5.1M   │ │ ├── certstream_2024_06_19_09_03_57_PM_Nepal_TIME.7z
 5.1M   │ │ ├── certstream_2024_06_20_07_28_39_PM_Nepal_TIME.7z
 5.1M   │ │ ├── certstream_2024_06_18_03_34_05_PM_Nepal_TIME.7z
 5.0M   │ │ ├── certstream_2024_06_20_08_39_27_PM_Nepal_TIME.7z
 5.0M   │ │ ├── certstream_2024_06_18_10_39_55_PM_Nepal_TIME.7z
+5.0M   │ │ ├── certstream_2024_06_21_07_46_54_PM_Nepal_TIME.7z
 5.0M   │ │ ├── certstream_2024_06_19_06_42_04_PM_Nepal_TIME.7z
 5.0M   │ │ ├── certstream_2024_06_18_07_18_49_AM_Nepal_TIME.7z
 5.0M   │ │ ├── certstream_2024_06_18_02_23_10_PM_Nepal_TIME.7z
+5.0M   │ │ ├── certstream_2024_06_21_10_07_40_PM_Nepal_TIME.7z
 5.0M   │ │ ├── certstream_2024_06_19_10_14_39_PM_Nepal_TIME.7z
 5.0M   │ │ ├── certstream_2024_06_20_06_28_15_AM_Nepal_TIME.7z
 4.9M   │ │ ├── certstream_2024_06_19_07_52_55_PM_Nepal_TIME.7z
 4.9M   │ │ ├── certstream_2024_06_19_11_37_16_AM_Nepal_TIME.7z
 4.9M   │ │ ├── certstream_2024_06_20_08_50_20_AM_Nepal_TIME.7z
 4.9M   │ │ ├── certstream_2024_06_21_01_23_54_AM_Nepal_TIME.7z
+4.9M   │ │ ├── certstream_2024_06_21_11_17_54_PM_Nepal_TIME.7z
 4.9M   │ │ ├── certstream_2024_06_18_08_29_12_AM_Nepal_TIME.7z
 4.9M   │ │ ├── certstream_2024_06_21_04_56_29_AM_Nepal_TIME.7z
 4.9M   │ │ ├── certstream_2024_06_20_09_50_40_PM_Nepal_TIME.7z
 4.9M   │ │ ├── certstream_2024_06_20_02_44_41_PM_Nepal_TIME.7z
 4.9M   │ │ ├── certstream_2024_06_18_05_55_47_PM_Nepal_TIME.7z
 4.8M   │ │ ├── certstream_2024_06_20_10_01_41_AM_Nepal_TIME.7z
-4.8M   │ │ ├── certstream_2024_06_14_07_26_17_AM_Nepal_TIME.7z
-4.8M   │ │ ├── certstream_2024_06_14_03_38_31_PM_Nepal_TIME.7z
+4.8M   │ │ ├── certstream_2024_06_21_04_15_32_PM_Nepal_TIME.7z
 4.8M   │ │ ├── certstream_2024_06_18_07_06_25_PM_Nepal_TIME.7z
 4.8M   │ │ ├── certstream_2024_06_20_11_01_40_PM_Nepal_TIME.7z
+4.8M   │ │ ├── certstream_2024_06_21_03_05_21_PM_Nepal_TIME.7z
 4.8M   │ │ ├── certstream_2024_06_19_12_48_16_PM_Nepal_TIME.7z
 4.8M   │ │ ├── certstream_2024_06_21_03_45_40_AM_Nepal_TIME.7z
 4.8M   │ │ ├── certstream_2024_06_15_06_50_40_AM_Nepal_TIME.7z
 4.8M   │ │ ├── certstream_2024_06_18_01_11_55_PM_Nepal_TIME.7z
-4.8M   │ │ ├── certstream_2024_06_14_02_28_19_PM_Nepal_TIME.7z
-4.8M   │ │ ├── certstream_2024_06_14_12_25_27_AM_Nepal_TIME.7z
+4.8M   │ │ ├── certstream_2024_06_22_12_27_56_AM_Nepal_TIME.7z
+4.8M   │ │ ├── certstream_2024_06_21_06_36_18_PM_Nepal_TIME.7z
+4.8M   │ │ ├── certstream_2024_06_22_02_48_23_AM_Nepal_TIME.7z
 4.8M   │ │ ├── certstream_2024_06_19_03_09_29_PM_Nepal_TIME.7z
-4.8M   │ │ ├── certstream_2024_06_14_10_57_22_AM_Nepal_TIME.7z
+4.8M   │ │ ├── certstream_2024_06_21_05_25_50_PM_Nepal_TIME.7z
+4.8M   │ │ ├── certstream_2024_06_21_12_45_00_PM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_20_06_17_25_PM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_19_05_31_09_PM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_20_03_55_22_PM_Nepal_TIME.7z
+4.7M   │ │ ├── certstream_2024_06_21_01_55_09_PM_Nepal_TIME.7z
+4.7M   │ │ ├── certstream_2024_06_22_01_38_08_AM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_20_12_23_14_PM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_18_12_00_42_PM_Nepal_TIME.7z
-4.7M   │ │ ├── certstream_2024_06_14_08_36_40_AM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_20_01_33_54_PM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_19_11_25_01_PM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_19_01_58_59_PM_Nepal_TIME.7z
@@ -186,33 +193,24 @@
 4.7M   │ │ ├── certstream_2024_06_18_09_39_30_AM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_17_06_43_28_AM_Nepal_TIME.7z
 4.7M   │ │ ├── certstream_2024_06_20_11_12_30_AM_Nepal_TIME.7z
-4.6M   │ │ ├── certstream_2024_06_14_08_19_18_PM_Nepal_TIME.7z
-4.6M   │ │ ├── certstream_2024_06_14_01_35_29_AM_Nepal_TIME.7z
+4.7M   │ │ ├── certstream_2024_06_22_05_08_38_AM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_15_09_11_48_AM_Nepal_TIME.7z
-4.6M   │ │ ├── certstream_2024_06_14_01_17_48_PM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_20_05_06_20_PM_Nepal_TIME.7z
-4.6M   │ │ ├── certstream_2024_06_14_07_09_10_PM_Nepal_TIME.7z
-4.6M   │ │ ├── certstream_2024_06_14_06_15_57_AM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_15_08_01_20_AM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_19_03_21_20_AM_Nepal_TIME.7z
-4.6M   │ │ ├── certstream_2024_06_14_10_39_40_PM_Nepal_TIME.7z
-4.6M   │ │ ├── certstream_2024_06_14_04_48_39_PM_Nepal_TIME.7z
+4.6M   │ │ ├── certstream_2024_06_22_03_58_29_AM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_17_08_44_54_PM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_20_02_55_55_AM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_19_04_31_57_AM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_20_01_45_31_AM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_18_06_08_13_AM_Nepal_TIME.7z
-4.6M   │ │ ├── certstream_2024_06_14_09_47_01_AM_Nepal_TIME.7z
 4.6M   │ │ ├── certstream_2024_06_18_04_57_40_AM_Nepal_TIME.7z
 4.5M   │ │ ├── certstream_2024_06_20_05_16_48_AM_Nepal_TIME.7z
 4.5M   │ │ ├── certstream_2024_06_19_01_00_35_AM_Nepal_TIME.7z
 4.5M   │ │ ├── certstream_2024_06_17_02_54_10_PM_Nepal_TIME.7z
 4.5M   │ │ ├── certstream_2024_06_19_02_11_05_AM_Nepal_TIME.7z
 4.5M   │ │ ├── certstream_2024_06_17_09_55_24_PM_Nepal_TIME.7z
-4.5M   │ │ ├── certstream_2024_06_14_12_07_41_PM_Nepal_TIME.7z
-4.5M   │ │ ├── certstream_2024_06_14_02_45_33_AM_Nepal_TIME.7z
 4.5M   │ │ ├── certstream_2024_06_21_12_12_57_AM_Nepal_TIME.7z
-4.5M   │ │ ├── certstream_2024_06_14_09_29_25_PM_Nepal_TIME.7z
 4.5M   │ │ ├── certstream_2024_06_17_07_34_32_PM_Nepal_TIME.7z
 4.5M   │ │ ├── certstream_2024_06_15_03_20_13_AM_Nepal_TIME.7z
 4.5M   │ │ ├── certstream_2024_06_15_11_32_31_AM_Nepal_TIME.7z
@@ -222,19 +220,15 @@
 4.4M   │ │ ├── certstream_2024_06_15_12_42_50_PM_Nepal_TIME.7z
 4.4M   │ │ ├── certstream_2024_06_17_01_44_01_PM_Nepal_TIME.7z
 4.4M   │ │ ├── certstream_2024_06_15_10_22_06_AM_Nepal_TIME.7z
-4.4M   │ │ ├── certstream_2024_06_14_05_58_53_PM_Nepal_TIME.7z
 4.4M   │ │ ├── certstream_2024_06_20_04_06_23_AM_Nepal_TIME.7z
 4.4M   │ │ ├── certstream_2024_06_17_07_53_32_AM_Nepal_TIME.7z
 4.4M   │ │ ├── certstream_2024_06_18_01_25_59_AM_Nepal_TIME.7z
-4.4M   │ │ ├── certstream_2024_06_14_03_55_32_AM_Nepal_TIME.7z
 4.3M   │ │ ├── certstream_2024_06_17_04_04_20_PM_Nepal_TIME.7z
-4.3M   │ │ ├── certstream_2024_06_14_05_05_34_AM_Nepal_TIME.7z
 4.3M   │ │ ├── certstream_2024_06_15_01_53_00_PM_Nepal_TIME.7z
 4.3M   │ │ ├── certstream_2024_06_18_02_36_10_AM_Nepal_TIME.7z
 4.3M   │ │ ├── certstream_2024_06_17_12_33_46_PM_Nepal_TIME.7z
 4.3M   │ │ ├── certstream_2024_06_15_04_30_22_AM_Nepal_TIME.7z
 4.3M   │ │ ├── certstream_2024_06_17_06_24_21_PM_Nepal_TIME.7z
-4.3M   │ │ ├── certstream_2024_06_14_11_49_51_PM_Nepal_TIME.7z
 4.2M   │ │ ├── certstream_2024_06_15_12_59_54_AM_Nepal_TIME.7z
 4.2M   │ │ ├── certstream_2024_06_15_03_03_16_PM_Nepal_TIME.7z
 4.2M   │ │ ├── certstream_2024_06_16_08_33_38_AM_Nepal_TIME.7z
@@ -276,9 +270,11 @@
 3.9M   │ │ ├── certstream_2024_06_16_01_33_40_AM_Nepal_TIME.7z
 3.9M   │ │ ├── certstream_2024_06_16_11_43_16_PM_Nepal_TIME.7z
 3.8M   │ │ └── certstream_2024_06_17_02_03_06_AM_Nepal_TIME.7z
- 14M   │ └─┬ Latest
-7.2M   │   ├── certstream_2024_06_21_06_46_11_AM_Nepal_TIME.7z
-7.2M   │   └── certstream_2024_06_21_08_09_13_AM_Nepal_TIME.7z
+ 25M   │ └─┬ Latest
+7.9M   │   ├── certstream_2024_06_22_07_41_13_AM_Nepal_TIME.7z
+7.5M   │   ├── certstream_2024_06_22_06_18_03_AM_Nepal_TIME.7z
+5.3M   │   ├── certstream_2024_06_22_07_29_28_AM_Nepal_TIME.7z
+5.0M   │   └── certstream_2024_06_22_06_19_10_AM_Nepal_TIME.7z
  12K   ├── README.md
  12K   ├── INFO.md
  12K   ├─┬ Data
