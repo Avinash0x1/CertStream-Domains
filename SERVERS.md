@@ -44,9 +44,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 48 days, 22 hours and 55 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.46 1.32 0.93
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 94
+   .mX2'       _xaaa__     XZ[.   Uptime: 49 days and 19 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.2 1.3 1.04
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 92
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -56,8 +56,8 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Not detected
-            ~~~~~                 RAM: 513 MiB / 3411 MiB
-                                  Disk: 49.8 GiB / 75.2 GiB
+            ~~~~~                 RAM: 518 MiB / 3411 MiB
+                                  Disk: 49.9 GiB / 75.2 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -65,12 +65,12 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 75.2G │ 49.8G │ 21.6G │  66.2% │ ext4 │ /dev/vda1  │
+│ /          │ 75.2G │ 49.9G │ 21.5G │  66.3% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         9.17T   2.88G      0   3.41k       0       0 
+         9.18T   2.88G      0   3.41k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
           179G   1.51G      0       0       0       0 
     altname enp0s3
