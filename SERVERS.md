@@ -44,9 +44,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 53 days and 23 hours
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 3.16 1.75 1.09
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 96
+   .mX2'       _xaaa__     XZ[.   Uptime: 54 days and 24 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.19 1.27 1.01
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 92
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -56,8 +56,8 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Not detected
-            ~~~~~                 RAM: 583 MiB / 3411 MiB
-                                  Disk: 53.0 GiB / 75.2 GiB
+            ~~~~~                 RAM: 568 MiB / 3411 MiB
+                                  Disk: 53.1 GiB / 75.2 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -65,7 +65,7 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 75.2G │ 53.0G │ 18.4G │  70.5% │ ext4 │ /dev/vda1  │
+│ /          │ 75.2G │ 53.1G │ 18.3G │  70.5% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
