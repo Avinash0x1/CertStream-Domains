@@ -6,9 +6,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 31 days, 10 hours and 6 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.06 1.37 0.97
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 81
+   .mX2'       _xaaa__     XZ[.   Uptime: 31 days, 11 hours and 31 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.02 1.3 0.96
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 82
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -17,8 +17,8 @@
     XUb;.                         Temperature: Not detected
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
        +3#bc,                     GPU: Not detected
-         -)SSL,,                  RAM: 544 MiB / 3411 MiB
-            ~~~~~                 Disk: 15.6 GiB / 40.8 GiB
+         -)SSL,,                  RAM: 542 MiB / 3411 MiB
+            ~~~~~                 Disk: 15.9 GiB / 40.8 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -26,14 +26,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 40.8G │ 15.6G │ 23.1G │  38.2% │ ext4 │ /dev/vda1  │
+│ /          │ 40.8G │ 15.9G │ 22.8G │  39.0% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         5.96T   1.96G      0   1.58M       0       0 
+         5.97T   1.96G      0   1.59M       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-          101G    814M      0       0       0       0 
+          101G    816M      0       0       0       0 
     altname enp0s3
     altname ens3
 
