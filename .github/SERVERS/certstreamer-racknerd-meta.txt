@@ -5,9 +5,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 57 days, 1 hour and 17 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.4 1.25 0.96
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 93
+   .mX2'       _xaaa__     XZ[.   Uptime: 57 days, 2 hours and 41 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.2 1.17 0.93
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 97
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -17,7 +17,7 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Not detected
-            ~~~~~                 RAM: 538 MiB / 3411 MiB
+            ~~~~~                 RAM: 531 MiB / 3411 MiB
                                   Disk: 27.4 GiB / 75.2 GiB
 [+] Storage:
 
